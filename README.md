@@ -6,7 +6,7 @@ An implementation of the 'Bayesian regression for latent source model' method fo
 
 * [Python](https://www.python.org/) 3.5
 * [MongoDB](http://www.mongodb.org/) 3.2
-* [bigfloat prerequisites](http://bigfloat.readthedocs.org/en/latest/#prerequisites)
+* [bigfloat prerequisites](http://bigfloat.readthedocs.org/en/latest/#prerequisites)(#apt-get install libmpfr-dev)
 
 ## Installation
 
