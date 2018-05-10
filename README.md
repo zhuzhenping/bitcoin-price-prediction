@@ -4,12 +4,13 @@ An implementation of the 'Bayesian regression for latent source model' method fo
 
 ## Requirements
 
-* [Python](https://www.python.org/) 3.5
+* [Python3](https://www.python.org/) 3.5
 * [MongoDB](http://www.mongodb.org/) 3.2
 * [bigfloat prerequisites](http://bigfloat.readthedocs.org/en/latest/#prerequisites)(#apt-get install libmpfr-dev,$ pip3 install bigfloat
 )
 * [python3-numpy]
 * [python3-requests]
+* [python3-sklearn]
 
 ## Installation
 
